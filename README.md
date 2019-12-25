@@ -14,3 +14,4 @@ This calculator is capable of the following math opetherias:
 5)Signs priority
 
 Hope you enjoy!
+![Example](https://github.com/danil4905/Calculator-JS/blob/master/Example.PNG)

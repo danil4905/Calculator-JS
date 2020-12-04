@@ -1,6 +1,6 @@
 # Calculator-JS
 This is the Simple Calculator that I made on only JavaScript.
-
+https://danil4905.github.io/Calculator-JS/
 This calculator is capable of the following math opetherias:
 
 # 1)Addition
